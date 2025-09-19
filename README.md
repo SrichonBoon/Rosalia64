@@ -1,3 +1,4 @@
+.𝙜𝙞𝙩𝙝𝙪𝙗/𝙬𝙤𝙧𝙠𝙛𝙡𝙤𝙬𝙨/𝙥𝙪𝙡𝙡-𝙧𝙚𝙦𝙪𝙚𝙨𝙩.𝙮𝙢𝙡
 # Rosalia64
 
 Rosalia64 is a Itanium (IA64) Emulator built to run Itanium .exe Files. 
